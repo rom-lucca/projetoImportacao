@@ -1,6 +1,6 @@
 ## **Projeto de integração entre agenda do ERP Sankhya e CRM**!
 
-📊 Sistema para importar dados entre um sistema e outro desenvolvido em **Python** e utilizando **JSON**. <br>  
+📊 Sistema para importar dados entre um sistema e outro desenvolvido em **Python** e utilizando **JSON**. Durante quase dois anos percorridos na fase de implementação, algo que travava a implementação do sistema era o fato de não ter uma integração para que fossem importados esses dados, porém com esse script, solucionei esse impeditivo e conseguimos realizar a implementação do sistema após 3 meses da minha chegada na empresa. <br>  
 🌐 Tecnologias usadas: Python, JSON, Selenium.  
 
 ---
